@@ -1,4 +1,4 @@
-# Hi-World
+# Hi-WorldS
 
 I'm just learning how to use git-hub
-and burshing up ob me java
+JUST MAKING SOMECHANGES HERE
